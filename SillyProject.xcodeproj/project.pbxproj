@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					1F7082C51F23A1D300FB2A72 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = CSVMBYGY89;
 						ProvisioningStyle = Automatic;
 					};
 					1F7082D91F23A1D300FB2A72 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CSVMBYGY89;
 				INFOPLIST_FILE = SillyProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.workshop.SillyProject;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CSVMBYGY89;
 				INFOPLIST_FILE = SillyProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.workshop.SillyProject;
@@ -507,6 +510,7 @@
 				1F7082F01F23A1D300FB2A72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1F7082F11F23A1D300FB2A72 /* Build configuration list for PBXNativeTarget "SillyProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				1F7082F31F23A1D300FB2A72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1F7082F41F23A1D300FB2A72 /* Build configuration list for PBXNativeTarget "SillyProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +528,7 @@
 				1F7082F61F23A1D300FB2A72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
